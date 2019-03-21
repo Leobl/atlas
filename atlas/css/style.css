@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  }
+  .backgroundimage{
+    background-image: url(../images/atlas_bg_1.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 110vh;
+    width: 101%;
+  }
